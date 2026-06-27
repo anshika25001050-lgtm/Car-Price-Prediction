@@ -19,5 +19,5 @@ Car features such as:
 - MSE
 - R² Score
 
-##conclusion
+## conclusion
 The results demonstrate that machine learning can effectively estimate car prices with good accuracy, making the model useful for buyers, sellers, and dealerships. Future improvements can include using a larger and more diverse dataset, incorporating real-time market trends, and deploying the model as a web application for practical use.
